@@ -1,4 +1,8 @@
 {
+  "student": {
+    "name": "Phạm Quang Huy",
+    "mssv": "2A202602900"
+  },
   "progress": {
     "box_iou": "ok",
     "nms": "ok",

@@ -1,5 +1,7 @@
 # ⭐ Bài tập về nhà 3 — Export YOLO26n sang ONNX, đo latency trên CPU
 
+**Học viên:** Phạm Quang Huy — **MSSV:** 2A202602900  
+
 Notebook đã chạy: [submission/bonus_onnx_latency.ipynb](https://github.com/huybla166/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/submission/bonus_onnx_latency.ipynb)
 
 Môi trường: Colab runtime CPU (AMD EPYC 7B12, 2 vCPU, PyTorch dùng 1 luồng), không GPU.

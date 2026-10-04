@@ -1,5 +1,8 @@
 # Báo cáo Lab Ngày 18 — 2D Perception: Detection · Segmentation · Keypoints
 
+**Học viên:** Phạm Quang Huy  
+**MSSV:** 2A202602900  
+
 Link notebook đã chạy: https://github.com/huybla166/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb
 
 ## Notebook đã chạy
