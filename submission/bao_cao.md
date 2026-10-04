@@ -8,6 +8,7 @@ Link notebook đã chạy: https://github.com/huybla166/Track04-Day18-2D-percept
 ## Notebook đã chạy
 
 - GitHub (còn nguyên output): [lab_2d_perception_student.ipynb](https://github.com/huybla166/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb)
+- Xem nhanh trên nbviewer (notebook 11 MB, GitHub có thể báo "Unable to render code block"): [nbviewer](https://nbviewer.org/github/huybla166/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb)
 - Mở bản đã chạy trên Colab: [Open in Colab](https://colab.research.google.com/github/huybla166/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb)
 - Bản gốc trên Google Drive (Colab): <https://colab.research.google.com/drive/1WSiwYtdPQiwu83ZeCCJsByOoxAH34AsK>
 
