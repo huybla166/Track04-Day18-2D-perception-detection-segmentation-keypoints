@@ -1,5 +1,7 @@
 # Báo cáo Lab Ngày 18 — 2D Perception: Detection · Segmentation · Keypoints
 
+Link notebook đã chạy: https://github.com/huybla166/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb
+
 ## Notebook đã chạy
 
 - GitHub (còn nguyên output): [lab_2d_perception_student.ipynb](https://github.com/huybla166/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb)
@@ -21,6 +23,8 @@ Notebook chạy `Run all` trên runtime mới, không ô nào lỗi; ô 3A đư�
 | 3B, 3C | `oks`, `joint_angle` ✅ · lệch 8 px: mắt 0.53, hông 0.97 |
 | 4A | `FLIP_IDX = [0, 1, 2, 3, 7, 6, 5, 4, 10, 11, 8, 9]` ✅ |
 | 4B | 40 epoch, imgsz 640, T4, 4.4 phút · Pose mAP50 0.995 · Pose mAP50-95 0.457 · Box mAP50-95 0.930 |
+| 4C ⭐ | Bảng hai model × hai tập val, xem mục bên dưới |
+| Bài tập về nhà ⭐ | Export ONNX + đo latency CPU của hai head ở conf 0.25 / 0.001 · báo cáo: [bonus_onnx_latency.md](bonus_onnx_latency.md), notebook: [bonus_onnx_latency.ipynb](bonus_onnx_latency.ipynb) |
 
 ## ⭐ 4C — Val lật gương: metric nào đã che lỗi `flip_idx`?
 
